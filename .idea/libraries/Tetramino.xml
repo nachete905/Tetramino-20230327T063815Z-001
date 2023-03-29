@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Tetramino">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Tetramino/Tetramino.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
